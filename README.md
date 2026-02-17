@@ -177,5 +177,6 @@ App will run at:
 http://localhost:3000
 
 🌍 Live Deployment
-Frontend: https://your-frontend-url.com
-Backend: https://your-backend-url.com
+Frontend: https://realtime-poll-1.onrender.com
+
+Backend:  https://realtime-poll-o578.onrender.com
